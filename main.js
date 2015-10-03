@@ -1,0 +1,1 @@
+new ScoreLibrary.ScoreDiv($('#content'), "example.xml", true, true);
